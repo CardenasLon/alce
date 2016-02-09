@@ -7,8 +7,8 @@ Proyecto que trata de fusionar las caracteristicas de un ERP y un CRM desarrolla
 
 # Contacto 
 
-twitter@CardenasLon
+http:\\www.twitter.com\CardenasLon
 
-facebook@CardenasLon
+http:\\www.facebook.com\CardenasLon
 
 hector.carlon@gmail.com
